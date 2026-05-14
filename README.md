@@ -1,0 +1,2 @@
+# Pearlpixv10
+[   {     "id": "6d95fal7c7e40bea",     "username": "kissimmodz",     "password": "kissimmodz",     "expiresAt": "2026-06-20",     "allowOffline": true   },   {     "id": "android_device_id_2",     "username": "user2",     "password": "pass2",     "expiresAt": "2026-11-30",     "allowOffline": false   } ]
